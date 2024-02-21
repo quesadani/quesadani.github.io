@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum personal
+title: Certificaciones Académicas 
 description: Breve descripción de mis certificaciones académicas  
 ---
 

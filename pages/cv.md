@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum personal
+title: Experiencias Laborales
 description: Breve descripción de mis experiencias laborales
 ---
 

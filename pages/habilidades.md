@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum personal
+title: Habilidades técnicas 
 description: Breve descripción de mis habilidades 
 ---
 

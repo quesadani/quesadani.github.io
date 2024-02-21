@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum personal
+title: Estudios académicos
 description: Breve descripción de mis estudios 
 ---
 
