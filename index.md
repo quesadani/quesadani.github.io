@@ -1,14 +1,17 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Daniela Quesada
+tagline: Página personal
+description: Resumen de mi página personal
 ---
+Estudiante avanzada de la carrera de Administración en Tecnologías de Información en el Tecnológico de
+Costa Rica, apasionada por las bases de datos y emocionada por encontrar mi primera oportunidad laboral
+donde pueda aplicar mis conocimientos teóricos y prácticos en un entorno profesional, contribuyendo al
+crecimiento de la empresa. Estoy emocionada por enfrentar nuevos desafíos, aprender de manera continua y
+aportar soluciones innovadoras que beneficien tanto a la organización como a mi desarrollo profesional. 
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+<image src = "fotoTorre.jpg">
+
 
 For me, the painful aspects of making a website are
 
