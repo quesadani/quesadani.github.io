@@ -4,7 +4,9 @@ title: Daniela Quesada
 tagline: Página personal
 description: Resumen de mi página personal
 ---
-<img src = "img/linkedin-icon-1024x1024-net2o24e.png"  style= "width: 50px" style= "height 50px";>
+<a href= "https://www.linkedin.com/in/quesadani/" >
+<img src = "img/linkedin.png">
+</a>
 
 Estudiante avanzada de la carrera de Administración en Tecnologías de Información en el [Tecnológico de Costa Rica](https://www.tec.ac.cr/), apasionada por las bases de datos y emocionada por encontrar mi primera oportunidad laboral donde pueda aplicar mis conocimientos teóricos y prácticos en un entorno profesional, contribuyendo al crecimiento de la empresa. Estoy emocionada por enfrentar nuevos desafíos, aprender de manera continua y aportar soluciones innovadoras que beneficien tanto a la organización como a mi desarrollo profesional. 
 
