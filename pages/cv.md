@@ -1,4 +1,4 @@
---
+---
 layout: page
 title: Curriculum personal
 description: Breve descripción de mis experiencias laborales

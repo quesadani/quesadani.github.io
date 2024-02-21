@@ -1,8 +1,9 @@
---
+---
 layout: page
 title: Curriculum personal
 description: Breve descripción de mis estudios 
 ---
+
 2023 -2024
 ### Universidad Fidélitas
 Especialización en Transformación Digital
