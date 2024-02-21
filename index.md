@@ -12,6 +12,8 @@ Estudiante avanzada de la carrera de Administración en Tecnologías de Informac
 
 Puede acceder a mis experiencias laborales en el siguiente [enlace](pages/cv.md) o bien si desea ver mis estudios puede acceder en este [enlace](pages/estudios.md)
 
+Además, si deseea conocer mis habilidades puede hacer click en este [enlace](pages/habilidades.md) o bien si desea conocer mis certificaciones académicas también puede acceder a ellas mediante este [enlace](pages/cert.md)
+
 <img src = "img/fotoTorre.jpeg"  width= "250" >
 
 
