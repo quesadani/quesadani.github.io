@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Curriculum personal
+title: Daniela Quesada Navarro
 tagline: Página personal
 description: Resumen de mi página personal
 ---
+<body>
 <div class="contenedor">
 <div>
 <p>Estudiante avanzada de la carrera de Administración en Tecnologías de Información en el Tecnológico de Costa Rica, apasionada por las bases de datos y emocionada por encontrar mi primera oportunidad laboral donde pueda aplicar mis conocimientos teóricos y prácticos en un entorno profesional, contribuyendo al crecimiento de la empresa. Estoy emocionada por enfrentar nuevos desafíos, aprender de manera continua y aportar soluciones innovadoras que beneficien tanto a la organización como a mi desarrollo profesional.</p>
 <div>
 
-<image src = "img/fotoTorre.jpeg" style = "width: 350px" style = "height: 250px" display: flex>
+<img class="imagen" src = "img/fotoTorre.jpeg">
+
 <div>
+</body>
+
     
 
 
